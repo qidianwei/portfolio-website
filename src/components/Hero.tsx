@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <SplitText
-            text="Tirth Patel"
+            text="Tirth Patel asd"
             delay={30}
             fontSize="4rem"
             fontWeight={600}
