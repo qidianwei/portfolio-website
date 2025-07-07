@@ -12,8 +12,8 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <SplitText
-            text="创意设计，无限可能"
-            delay={150}
+            text="Tirth Patel"
+            delay={30}
             fontSize="4rem"
             fontWeight={600}
             textAlign="center"
